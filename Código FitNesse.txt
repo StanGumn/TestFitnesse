@@ -1,0 +1,13 @@
+!define TEST_SYSTEM {slim}
+!path E:\Documentos\GitHub\TestFitnesse\Operaciones\build\classes
+
+!|import|
+|operaciones|
+
+|Operaciones|
+|primero|segundo|suma?|resta?|
+|5|4|9.4|1|
+|3|5|8|-2|
+|8|1|9|7|
+|7|0|7|7|
+|12|5|9|0|
